@@ -1,0 +1,2 @@
+# autostart
+autostard-bashshell
